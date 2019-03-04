@@ -45,11 +45,6 @@ Today will be an "overview" and "installation" day. We need to be on the same le
 * Techings 6 lektions a week for 15 weeks.  
     * Teachings - Exercises - Recap  
 ---
-* Homework (9 hours per week):
-    * Reading: Required reading from this time. 
-    * Look at required reading for next time
-    * Home Exercises  
-
 
 ## The UNIX File system and Terminal Commands
 * [Unix Commands](/other_materials/unix_commands.md)
